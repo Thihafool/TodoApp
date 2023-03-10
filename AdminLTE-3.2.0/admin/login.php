@@ -77,8 +77,12 @@ if(isset($_POST['signIn'])){
           <div class="col-4">
             <button type="submit" name="signIn" class="btn btn-primary btn-block">Sign In</button>
           </div>
+            <div class="mt-3" >
+               Email and Password = admin@gmail.com ,admin
+              </div>
           <!-- /.col -->
         </div>
+        
       </form>
 
       <div class="social-auth-links text-center mb-3">
